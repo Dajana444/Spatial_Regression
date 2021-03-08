@@ -1,0 +1,37 @@
+fylkenummer,fylkenavn,gender,smoke
+2,Akershus,Males,22
+2,Akershus,Females,11
+9,Aust-Agder,Males,17
+9,Aust-Agder,Females,20
+6,Buskerud,Males,20
+6,Buskerud,Females,16
+20,Finnmark - Finnmárku,Males,18
+20,Finnmark - Finnmárku,Females,27
+4,Hedmark,Males,16
+4,Hedmark,Females,22
+12,Hordaland,Males,20
+12,Hordaland,Females,15
+15,Møre og Romsdal,Males,18
+15,Møre og Romsdal,Females,16
+18,Nordland,Males,19
+18,Nordland,Females,18
+5,Oppland,Males,22
+5,Oppland,Females,21
+3,Oslo,Males,21
+3,Oslo,Females,14
+1,Østfold,Males,22
+1,Østfold,Females,22
+11,Rogaland,Males,21
+11,Rogaland,Females,12
+14,Sogn og Fjordane,Males,17
+14,Sogn og Fjordane,Females,14
+8,Telemark,Males,16
+8,Telemark,Females,20
+19,Troms - Romsa,Males,20
+19,Troms - Romsa,Females,14
+50,Trøndelag - Trööndelage,Males,20
+50,Trøndelag - Trööndelage,Females,16
+10,Vest-Agder,Males,20
+10,Vest-Agder,Females,20
+7,Vestfold,Males,20
+7,Vestfold,Females,17
