@@ -1,0 +1,37 @@
+fylkenummer,fylkenavn,IOs_kjonn,smoke
+1,Østfold,1,22
+1,Østfold,2,22
+2,Akershus,1,22
+2,Akershus,2,11
+3,Oslo,1,21
+3,Oslo,2,14
+4,Hedmark,1,16
+4,Hedmark,2,22
+5,Oppland,1,22
+5,Oppland,2,21
+6,Buskerud,1,20
+6,Buskerud,2,16
+7,Vestfold,1,20
+7,Vestfold,2,17
+8,Telemark,1,16
+8,Telemark,2,20
+9,Aust-Agder,1,17
+9,Aust-Agder,2,20
+10,Vest-Agder,1,20
+10,Vest-Agder,2,20
+11,Rogaland,1,21
+11,Rogaland,2,12
+12,Hordaland,1,20
+12,Hordaland,2,15
+14,Sogn og Fjordane,1,17
+14,Sogn og Fjordane,2,14
+15,Møre og Romsdal,1,18
+15,Møre og Romsdal,2,16
+18,Nordland,1,19
+18,Nordland,2,18
+19,Troms - Romsa,1,20
+19,Troms - Romsa,2,14
+20,Finnmark - Finnmárku,1,18
+20,Finnmark - Finnmárku,2,27
+50,Trøndelag - Trööndelage,1,20
+50,Trøndelag - Trööndelage,2,16

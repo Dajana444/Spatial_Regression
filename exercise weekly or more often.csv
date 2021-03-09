@@ -1,0 +1,37 @@
+fylkenummer,fylkenavn,IOs_kjonn,Exercises weekly or more often
+1,Østfold,1,66
+1,Østfold,2,63
+2,Akershus,1,78
+2,Akershus,2,78
+3,Oslo,1,78
+3,Oslo,2,77
+4,Hedmark,1,70
+4,Hedmark,2,64
+5,Oppland,1,69
+5,Oppland,2,74
+6,Buskerud,1,63
+6,Buskerud,2,78
+7,Vestfold,1,64
+7,Vestfold,2,73
+8,Telemark,1,70
+8,Telemark,2,71
+9,Aust-Agder,1,66
+9,Aust-Agder,2,72
+10,Vest-Agder,1,73
+10,Vest-Agder,2,72
+11,Rogaland,1,73
+11,Rogaland,2,75
+12,Hordaland,1,74
+12,Hordaland,2,80
+14,Sogn og Fjordane,1,67
+14,Sogn og Fjordane,2,82
+15,Møre og Romsdal,1,74
+15,Møre og Romsdal,2,76
+18,Nordland,1,70
+18,Nordland,2,80
+19,Troms - Romsa,1,69
+19,Troms - Romsa,2,71
+20,Finnmark - Finnmárku,1,67
+20,Finnmark - Finnmárku,2,74
+50,Trøndelag - Trööndelage,1,71
+50,Trøndelag - Trööndelage,2,77
